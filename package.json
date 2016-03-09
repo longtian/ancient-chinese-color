@@ -1,0 +1,19 @@
+{
+  "name": "ancient-chinese-color",
+  "version": "0.0.0",
+  "description": "中国古代颜色表",
+  "main": "index.js",
+  "scripts": {
+    "readme": "node ./scripts/generate_readme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyvernnot/ancient-chinese-color.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wyvernnot/ancient-chinese-color/issues"
+  },
+  "homepage": "https://github.com/wyvernnot/ancient-chinese-color#readme"
+}
