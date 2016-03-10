@@ -1,3 +1,5 @@
+console.log('|名字|HEX|RGB|HSV|HSL|CMYK|');
+console.log('|--|--|--|--|--|--|');
 require('../').forEach(item=>{
-  console.log('<span style="color:%s">%s</span>%s<br/>',item.HEX,item.name,item.HEX);
+  console.log(`|${item.name}|${item.HEX}|${item.RGB}|${item.HSV}|${item.HSL}|${item.CMYK}|`);
 })

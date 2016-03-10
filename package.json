@@ -18,6 +18,7 @@
   "homepage": "https://github.com/wyvernnot/ancient-chinese-color#readme",
   "devDependencies": {
     "cheerio": "^0.20.0",
+    "color-convert": "^1.0.0",
     "request": "^2.69.0"
   }
 }
